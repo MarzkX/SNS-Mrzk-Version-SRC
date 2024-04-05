@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Unhappy",
+			"sadmouse",
+			[
+				180,
+				180,
+				180
+			]
+		],
+		[
+			"Happy",
+			"happymouse",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Really Happy",
+			"bipolarmouse",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "suicide",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Sights of Hell",
+	"weekName": "Suicide Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

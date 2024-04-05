@@ -1,0 +1,496 @@
+{
+	"song": {
+		"events": [
+			[
+				13714.2857142857,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40285.7142857143,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"1.1"
+					]
+				]
+			],
+			[
+				41137.5,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41142.7455357143,
+				[
+					[
+						"Flashback",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mouse"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				41147.3214285714,
+				[
+					[
+						"Camera Follow Pos",
+						"410",
+						"300"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Camera Follow Pos",
+						"n",
+						"n"
+					]
+				]
+			],
+			[
+				53991.9642857143,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.015",
+						"0.5, 0.015"
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1.1"
+					]
+				]
+			],
+			[
+				54428.5714285715,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.02",
+						"0.1, 0.02"
+					]
+				]
+			],
+			[
+				54535.7142857143,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.025",
+						"0.1, 0.025"
+					]
+				]
+			],
+			[
+				54642.8571428572,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.03",
+						"0.1, 0.03"
+					]
+				]
+			],
+			[
+				54750,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.035",
+						"0.1, 0.035"
+					]
+				]
+			],
+			[
+				54856.6964285715,
+				[
+					[
+						"Flashback",
+						"2",
+						""
+					],
+					[
+						"Flash Black",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suicide-mouse"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-scared"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-scared"
+					]
+				]
+			],
+			[
+				54861.6071428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mouse-reanimated"
+					]
+				]
+			],
+			[
+				67714.2857142858,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"mouse"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Flashback",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82280.3571428572,
+				[
+					[
+						"Flash Black",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"suicide-mouse"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-scared"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-scared"
+					]
+				]
+			],
+			[
+				82281.25,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mouse-reanimated"
+					]
+				]
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"Flashback",
+						"2",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				82290.1785714286,
+				[
+					[
+						"Camera Follow Pos",
+						"410",
+						"300"
+					]
+				]
+			],
+			[
+				95997.3214285714,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				97178.5714285714,
+				[
+					[
+						"Change Scroll Speed",
+						"1.05",
+						"1"
+					]
+				]
+			],
+			[
+				97392.8571428571,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suicide-mouse"
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				125142.857142857,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125142.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mouse-reanimated"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				149142.857142857,
+				[
+					[
+						"Change Scroll Speed",
+						"1.22",
+						"1"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"1"
+					]
+				]
+			],
+			[
+				150857.142857143,
+				[
+					[
+						"Change Scroll Speed",
+						"1.27",
+						"1"
+					]
+				]
+			],
+			[
+				151714.285714286,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"1"
+					]
+				]
+			],
+			[
+				152571.428571428,
+				[
+					[
+						"Change Scroll Speed",
+						"1.35",
+						"1"
+					]
+				]
+			],
+			[
+				152571.428571428,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154285.714285714,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				155142.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suicide-mouse"
+					]
+				]
+			],
+			[
+				156214.285714286,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suicide-mouse"
+					]
+				]
+			],
+			[
+				164571.428571428,
+				[
+					[
+						"jumpscare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				164571.428571428,
+				[
+					[
+						"Camera Follow Pos",
+						"365",
+						"220"
+					]
+				]
+			]
+		]
+	}
+}

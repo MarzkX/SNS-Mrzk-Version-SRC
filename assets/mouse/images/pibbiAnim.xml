@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pibbiAnim.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pibbiIdle0000" x="0" y="0" width="181" height="225"/>
+	<SubTexture name="pibbiIdle0001" x="0" y="225" width="181" height="225"/>
+	<SubTexture name="pibbiIdle0002" x="0" y="450" width="181" height="225"/>
+	<SubTexture name="pibbiLose0000" x="0" y="675" width="169" height="150"/>
+	<SubTexture name="pibbiLose0001" x="0" y="825" width="169" height="150"/>
+	<SubTexture name="pibbiLose0002" x="0" y="975" width="169" height="150"/>
+	<SubTexture name="pibbiLose0003" x="0" y="1125" width="169" height="150"/>
+	<SubTexture name="pibbiLose0004" x="0" y="975" width="169" height="150"/>
+	<SubTexture name="pibbiLose0005" x="0" y="1275" width="169" height="150"/>
+	<SubTexture name="pibbiWin0000" x="0" y="1425" width="170" height="169"/>
+	<SubTexture name="pibbiWin0001" x="0" y="1594" width="170" height="169"/>
+	<SubTexture name="pibbiWin0002" x="0" y="1763" width="170" height="169"/>
+	<SubTexture name="pibbiWin0003" x="0" y="1594" width="170" height="169"/>
+	<SubTexture name="pibbiWin0004" x="0" y="1763" width="170" height="169"/>
+	<SubTexture name="pibbiWin0005" x="0" y="1425" width="170" height="169"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grainfix.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grain0000" x="0" y="0" width="1032" height="584"/>
+	<SubTexture name="grain0001" x="1032" y="0" width="1032" height="584"/>
+	<SubTexture name="grain0002" x="2064" y="0" width="1032" height="584"/>
+	<SubTexture name="grain0003" x="0" y="584" width="1032" height="584"/>
+	<SubTexture name="grain0004" x="1032" y="584" width="1032" height="584"/>
+	<SubTexture name="grain0005" x="2064" y="584" width="1032" height="584"/>
+	<SubTexture name="grain0006" x="0" y="1168" width="1032" height="584"/>
+	<SubTexture name="grain0007" x="1032" y="1168" width="1032" height="584"/>
+	<SubTexture name="grain0008" x="2064" y="1168" width="1032" height="584"/>
+	<SubTexture name="grain0009" x="0" y="1752" width="1032" height="584"/>
+	<SubTexture name="grain0010" x="1032" y="1752" width="1032" height="584"/>
+	<SubTexture name="grain0011" x="2064" y="1752" width="1032" height="584"/>
+	<SubTexture name="grain0012" x="0" y="2336" width="1032" height="584"/>
+	<SubTexture name="grain0013" x="1032" y="2336" width="1032" height="584"/>
+	<SubTexture name="grain0014" x="2064" y="2336" width="1032" height="584"/>
+	<SubTexture name="grain0015" x="0" y="2920" width="1032" height="584"/>
+	<SubTexture name="grain0016" x="1032" y="2920" width="1032" height="584"/>
+	<SubTexture name="grain0017" x="2064" y="2920" width="1032" height="584"/>
+	<SubTexture name="grain0018" x="0" y="3504" width="1032" height="584"/>
+	<SubTexture name="grain0019" x="1032" y="3504" width="1032" height="584"/>
+	<SubTexture name="grain0020" x="2064" y="3504" width="1032" height="584"/>
+</TextureAtlas>

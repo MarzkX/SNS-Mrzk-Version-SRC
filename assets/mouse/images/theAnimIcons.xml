@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="theAnimIcons.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="theHappyAnim0000" x="1277" y="5" width="193" height="193"/>
+	<SubTexture name="theHappyAnim0001" x="1475" y="5" width="193" height="193"/>
+	<SubTexture name="theHappyAnim0002" x="1277" y="203" width="193" height="193"/>
+	<SubTexture name="theHappyAnim0003" x="1475" y="203" width="193" height="193"/>
+	<SubTexture name="theHappyAnim0004" x="5" y="221" width="193" height="193"/>
+	<SubTexture name="theHurtAnim0000" x="203" y="221" width="165" height="165"/>
+	<SubTexture name="theHurtAnim0001" x="373" y="221" width="165" height="165"/>
+	<SubTexture name="theHurtAnim0002" x="543" y="221" width="165" height="165"/>
+	<SubTexture name="theHurtAnim0003" x="713" y="221" width="165" height="165"/>
+	<SubTexture name="theHurtAnim0004" x="883" y="221" width="165" height="165"/>
+	<SubTexture name="theHurtAnim0005" x="373" y="221" width="165" height="165"/>
+	<SubTexture name="theMouseAnim0000" x="1053" y="221" width="173" height="157"/>
+	<SubTexture name="theMouseAnim0001" x="1053" y="383" width="173" height="157"/>
+	<SubTexture name="theMouseAnim0002" x="1053" y="221" width="173" height="157"/>
+	<SubTexture name="theMouseAnim0003" x="1053" y="221" width="173" height="157"/>
+	<SubTexture name="theMouseAnim0004" x="203" y="391" width="173" height="157"/>
+	<SubTexture name="theMouseAnim0005" x="381" y="391" width="173" height="157"/>
+	<SubTexture name="theMouseAnim0006" x="559" y="391" width="173" height="157"/>
+	<SubTexture name="theMouseAnim0007" x="1053" y="221" width="173" height="157"/>
+	<SubTexture name="theNormalAnim0000" x="897" y="391" width="150" height="150"/>
+	<SubTexture name="theReallyAnim0000" x="1673" y="5" width="155" height="155"/>
+	<SubTexture name="theReallyAnim0001" x="1673" y="165" width="155" height="155"/>
+	<SubTexture name="theReallyAnim0002" x="1673" y="325" width="155" height="155"/>
+	<SubTexture name="theReallyAnim0003" x="737" y="391" width="155" height="155"/>
+	<SubTexture name="theReallyAnim0004" x="1231" y="401" width="155" height="155"/>
+	<SubTexture name="theReallyAnim0005" x="1391" y="401" width="155" height="155"/>
+	<SubTexture name="theWhatAnim0000" x="5" y="5" width="207" height="211"/>
+	<SubTexture name="theWhatAnim0001" x="217" y="5" width="207" height="211"/>
+	<SubTexture name="theWhatAnim0002" x="429" y="5" width="207" height="211"/>
+	<SubTexture name="theWhatAnim0003" x="641" y="5" width="207" height="211"/>
+	<SubTexture name="theWhatAnim0004" x="853" y="5" width="207" height="211"/>
+	<SubTexture name="theWhatAnim0005" x="1065" y="5" width="207" height="211"/>
+</TextureAtlas>

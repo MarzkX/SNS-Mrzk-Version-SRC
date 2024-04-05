@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="happyanim.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="theHappyAnim0000" x="0" y="0" width="153" height="153"/>
+	<SubTexture name="theHappyAnim0001" x="153" y="0" width="152" height="152" frameX="0" frameY="0" frameWidth="153" frameHeight="153"/>
+	<SubTexture name="theHappyAnim0002" x="305" y="0" width="150" height="150" frameX="-1" frameY="-1" frameWidth="153" frameHeight="153"/>
+	<SubTexture name="theHappyAnim0003" x="455" y="0" width="153" height="153"/>
+	<SubTexture name="theHappyAnim0004" x="608" y="0" width="152" height="152" frameX="0" frameY="0" frameWidth="153" frameHeight="153"/>
+	<SubTexture name="theMouseAnim0000" x="0" y="153" width="150" height="150" frameX="-1" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="theMouseAnim0001" x="150" y="153" width="152" height="152"/>
+	<SubTexture name="theMouseAnim0002" x="302" y="153" width="150" height="150" frameX="-1" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="theMouseAnim0003" x="452" y="153" width="152" height="152"/>
+	<SubTexture name="theMouseAnim0004" x="604" y="153" width="152" height="152"/>
+	<SubTexture name="theMouseAnim0005" x="452" y="153" width="152" height="152"/>
+</TextureAtlas>
